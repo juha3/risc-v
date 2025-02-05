@@ -4,6 +4,9 @@
 * UART bootloader
 * tested on Xilinx Artix7 / BASYS3 devkit
 
+Example code shows generates a new random number between 0 and 3 with each button 
+press and shows it in seven segment display.
+
 ## Peripherals
 
 * GPIO
